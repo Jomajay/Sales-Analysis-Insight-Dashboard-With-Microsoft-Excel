@@ -60,7 +60,7 @@ Here is the Sales insight dashboard:
 ![Dashboard Image](https://drive.google.com/uc?id=1_PDxIf7qAr2_bts44x03BbpycZhrSLod)
 
 PDF Format
-![Dashboard in PDF format](https://drive.google.com/file/d/1JxqqpFiuY6GfLOCB0Fk1kC-AwRm7Lgos)
+[Download Dashboard PDF](https://drive.google.com/uc?id=1JxqqpFiuY6GfLOCB0Fk1kC-AwRm7Lgos&export=download)
 
 ## Dashboard Components
 
