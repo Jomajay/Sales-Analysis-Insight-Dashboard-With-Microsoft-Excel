@@ -30,8 +30,7 @@ The "Data" sheet contains cleaned and processed sales data, ready for analysis. 
 4. **Aggregation**: Summarized sales data where necessary, such as calculating total sales and profit by product and segment.
 
 Here is the Cleaned data
-![Cleaned sales data](https://drive.google.com/uc?id=1cHhg6OAN8GcCor37HLooGShRhzMakFuC)
-
+![Cleaned sales data](https://drive.google.com/uc?id=1wJxIRKIC2v0RYyqU7c_95nWi8e6Uba_M)
 
 ## Data Cleaning Summary:
 1. **Removing Duplicates**: Ensured uniqueness of sales transactions.
