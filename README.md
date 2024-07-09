@@ -29,6 +29,9 @@ The "Data" sheet contains cleaned and processed sales data, ready for analysis. 
 3. **Transformation**: Converted categorical data into appropriate formats for analysis. For instance, segment names were standardized, and date fields were split into Year, Month, and Day for easier analysis.
 4. **Aggregation**: Summarized sales data where necessary, such as calculating total sales and profit by product and segment.
 
+Here is the Cleaned data
+![Cleaned sales data](https://drive.google.com/uc?id=1cHhg6OAN8GcCor37HLooGShRhzMakFuC)
+
 
 ## Data Cleaning Summary:
 1. **Removing Duplicates**: Ensured uniqueness of sales transactions.
@@ -43,7 +46,10 @@ The "Data" sheet contains cleaned and processed sales data, ready for analysis. 
 This comprehensive approach to data cleaning and preparation ensures that the sales data is accurate, consistent, and ready for in-depth analysis and visualization.
 
 ### Spreadsheet: Pivot Table
-#### Description:
+
+Here is the Pivot Table
+![Pivot Table](https://drive.google.com/uc?id=1cHhg6OAN8GcCor37HLooGShRhzMakFuC)
+
 The "Pivot Table" sheet contains various pivot tables created from the cleaned data. These tables provide a summarized view of the sales data, breaking it down by different dimensions such as product, segment, and time period.
 
 #### Key Features:
