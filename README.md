@@ -57,7 +57,7 @@ The "Pivot Table" sheet contains various pivot tables created from the cleaned d
 
 Here is the Sales insight dashboard:
 
-![Dashboard Image](https://drive.google.com/file/d/1_PDxIf7qAr2_bts44x03BbpycZhrSLod/view?usp=sharing)
+![Dashboard Image](https://drive.google.com/file/d/1_PDxIf7qAr2_bts44x03BbpycZhrSLod/view?usp=drive_link)
 
 ## Dashboard Components
 
